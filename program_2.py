@@ -1,7 +1,6 @@
 # Ray McMillin, 2/7/25, Age Classifier
 
 def categorize_age(age):
-    ageCategory = "TBD"
 
     if age <= 1:
         return 'Infant'
